@@ -1,2 +1,1 @@
-* 기여자 - 손인선(creatorsg)
-g
+* 기여자 - 손인선(creatorsg)    
